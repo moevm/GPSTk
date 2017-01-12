@@ -1,6 +1,6 @@
 #### Сборка:
-1. Скачать gpstk-2.5, например [отсюда] (https://sourceforge.net/projects/gpstk/files/gpstk/2.5/gpstk-2.5.src.tar.gz/download)
-2. Установить gpstk-2.5 по [инструкции] (https://github.com/moevm/GPSTk/blob/master/INSTALL.md)
+1. Скачать gpstk-2.5, например отсюда: https://sourceforge.net/projects/gpstk/files/gpstk/2.5/gpstk-2.5.src.tar.gz/download
+2. Установить gpstk-2.5 по инструкции: https://github.com/moevm/GPSTk/blob/master/INSTALL.md
 3. Запустить терминал
 4. Перейти в папку ephemeris_to_kml
 5. Запустить скрипт build.sh, введя ./build.sh
